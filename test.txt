@@ -1,8 +1,4 @@
 testcase
-<<<<<<< HEAD
-1 insert add 
-=======
-1 add 
->>>>>>> cc9344506c2a33247929391e9463730cf2f83839
+1 insert add
 2
 3
