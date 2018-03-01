@@ -1,4 +1,4 @@
 testcase
-1
+1 insert
 2
 3
